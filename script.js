@@ -79,13 +79,3 @@ reset.addEventListener("click", () => {
   document.querySelector(".line").style.width = "0vw";
   document.getElementsByClassName("info")[0].innerText = "Turn for " + turn;
 });
-
-
-let x=50
-let y="50";
-if(x==y)
-switch(x):
-case 1: 
-case 2:
-case 3:
-  case 50:
